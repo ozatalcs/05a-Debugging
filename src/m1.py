@@ -10,7 +10,7 @@ import rosegraphics as rg
 
 ###############################################################################
 #
-# TODO: 2. READ these instructions, ASKING QUESTIONS as needed.
+# Done: 2. READ these instructions, ASKING QUESTIONS as needed.
 #
 #   This module contains 7 "broken" functions.
 #
@@ -313,7 +313,7 @@ def broken_6(n):
 
 
 # -----------------------------------------------------------------------------
-# TODO: 9. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
+# Done: 9. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
 # -----------------------------------------------------------------------------
 def broken_7(n, point, length, distance_between_lines, window):
